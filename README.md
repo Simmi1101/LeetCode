@@ -54,4 +54,8 @@ DSACodes from LeetCode
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Simmi1101/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/Simmi1101/LeetCode/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
