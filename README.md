@@ -8,12 +8,14 @@ DSACodes from LeetCode
 | ------- |
 | [0031-next-permutation](https://github.com/Simmi1101/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Simmi1101/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Simmi1101/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simmi1101/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Simmi1101/LeetCode/tree/master/0169-majority-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Simmi1101/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Simmi1101/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Simmi1101/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -42,4 +44,8 @@ DSACodes from LeetCode
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Simmi1101/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Simmi1101/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
